@@ -1,11 +1,16 @@
 body {
-  background-color: rgb(216, 233, 242);
+  background-color: #dfe8ed;
 }
 
 a {
   text-decoration: none;
+  color: #ff1f7f;
 }
 
 footer {
   text-align: center;
+}
+.container {
+  background-color: rgb(52, 91, 142);
+  color: white;
 }
