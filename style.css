@@ -1,3 +1,11 @@
 body {
   background-color: rgb(216, 233, 242);
 }
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+}
