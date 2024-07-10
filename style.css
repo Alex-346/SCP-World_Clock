@@ -3,6 +3,23 @@ body {
   font-family: sans-serif;
 }
 
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  margin: 0 0 5px;
+  font-size: 28px;
+}
+
+select {
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 18px;
+}
+
 .container {
   max-width: 600px;
   margin: 60px auto;
@@ -25,11 +42,6 @@ body {
   border: none;
 }
 
-h2 {
-  margin: 0 0 5px;
-  font-size: 28px;
-}
-
 .date {
   opacity: 0.8;
 }
@@ -42,18 +54,6 @@ h2 {
 .time small {
   font-size: 24px;
   vertical-align: middle;
-}
-
-h1 {
-  font-size: 36px;
-}
-
-select {
-  display: block;
-  width: 100%;
-  border-radius: 5px;
-  padding: 10px;
-  font-size: 18px;
 }
 
 a {
